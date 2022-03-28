@@ -1,4 +1,4 @@
-package designPattersLab;
+package Part1;
 
 public class SingleObject {
 	//create an object of SingleObject
