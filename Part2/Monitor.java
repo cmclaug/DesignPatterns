@@ -1,4 +1,4 @@
-package designPattersLab;
+package Part2;
 
 public class Monitor implements ComputerPart {
 
