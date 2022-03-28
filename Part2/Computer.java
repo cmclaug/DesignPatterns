@@ -1,4 +1,4 @@
-package designPattersLab;
+package Part2;
 
 public class Computer implements ComputerPart {
 
