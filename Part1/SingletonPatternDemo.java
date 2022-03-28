@@ -1,4 +1,4 @@
-package designPattersLab;
+package Part1;
 
 public class SingletonPatternDemo {
 	public static void main(String[] args) {
